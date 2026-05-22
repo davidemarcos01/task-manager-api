@@ -1,1 +1,1 @@
-print("criando tarefa")
+print("corrigindo bug ao deletar tarefa")print("criando tarefa")
